@@ -1,0 +1,3 @@
+crontab -e
+//editor: nano
+@reboot python3 /{path}/chrome.py
